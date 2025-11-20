@@ -74,7 +74,7 @@ if __name__ == "__main__":
     download_file(host, port, 'example.txt')
 ```
 ## OUTPUT
-<img width="1472" height="538" alt="Screenshot 2025-11-11 092629" src="https://github.com/user-attachments/assets/8d6e8223-1fb2-463e-b9c4-2ad96c83d908" />
+<img width="1009" height="498" alt="image" src="https://github.com/user-attachments/assets/92100548-c4bf-4aba-9f05-4535011b09a9" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
